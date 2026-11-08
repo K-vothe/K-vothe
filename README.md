@@ -9,7 +9,7 @@
 
 -  I’m looking for help with **System design/Backend architecture**
 
--  All of my projects are available at [https://github.com/K-vothe](https://github.com/K-vothe)
+-  All of my projects are available at [https://github.com/K-vothe]
 
 -  Ask me about **Anything**
 

@@ -13,7 +13,7 @@
 
 -  Ask me about **Anything**
 
--  How to reach me **E-mail:hainermartinez722@gmail.com ///Discord:k_i_r_b_y_**
+-  How to reach me **E-mail:hainermartinez722@gmail.com 
 
 
 

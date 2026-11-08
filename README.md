@@ -16,7 +16,4 @@
 -  How to reach me **E-mail:hainermartinez722@gmail.com ///Discord:k_i_r_b_y_**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 

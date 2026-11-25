@@ -1,81 +1,77 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=200&section=header&text=Hainer%20C.&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Backend&descAlignY=65&descSize=18"/>
+<img src="./banner.svg" width="100%" alt="Hainer Castellano — From code to product" />
 
-### Building software. Solving problems. Always learning.
+<br>
 
-Software Development Student at SENA  
-Bogotá, Colombia
-
-[![GitHub](https://img.shields.io/badge/GitHub-K--vothe-181717?style=for-the-badge&logo=github)](https://github.com/K-vothe)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hainermartinez722@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hainer%20Castellano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-vothe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hainer_Castellano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-vothe/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-FF783D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hainermartinez722@gmail.com)
 
 </div>
 
-## About Me
+## About me
 
-I'm a Software Analysis and Development (ADSO) student at SENA, with a strong interest in backend development, databases and software architecture.
+I'm a Software Analysis and Development (ADSO) student at SENA, interested in backend development, relational databases and software architecture.
 
-I'm currently developing practical projects while strengthening my understanding of software engineering fundamentals.
+I enjoy understanding how software works, from its underlying logic to the interaction between its components.
 
-- Currently working on **MotoRent**, a motorcycle rental marketplace.
-- Interested in backend architecture, REST APIs and relational databases.
+- Currently developing **MotoRent**.
 - Strengthening my knowledge of TypeScript, Python and SQL.
-- Currently studying English at B1 level.
+- Studying computer science through Harvard's CS50.
 - Open to software development apprenticeship opportunities.
+- Based in Bogotá, Colombia.
 
-## Tech Stack
+## Tech stack
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python&theme=dark" />
 
 ### Databases & ORM
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
 
-### Development Tools
+### Development tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-### Currently Learning
+### Currently learning
 
-<img src="https://skillicons.dev/icons?i=docker,nestjs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,nestjs&theme=dark" />
 
-## Featured Projects
+## Selected projects
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| MotoRent | Motorcycle rental marketplace with authentication and role-based functionality. | TypeScript, Express, React, PostgreSQL |
-| [MiniHelpDesk](https://github.com/K-vothe/minihelpdesk-semgrep) | Full-stack ticket management application with static security analysis. | Node.js, Prisma, Semgrep |
-| [IncidentHub](https://github.com/K-vothe/Incidenthub-Api2) | Backend project focused on incident management. | TypeScript |
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **MotoRent** | Full-stack motorcycle rental marketplace. | TypeScript, Express, React, PostgreSQL, Prisma |
+| [**MiniHelpDesk**](https://github.com/K-vothe/minihelpdesk-semgrep) | Ticket management application with static security analysis. | Node.js, Prisma, Semgrep |
+| [**IncidentHub**](https://github.com/K-vothe/Incidenthub-Api2) | Backend API for incident management. | TypeScript |
 
 ## Education
 
-- **SENA** — Software Analysis and Development (ADSO)
-- **Harvard CS50** — Currently studying
-- **SMART English Academy** — English B1 in progress
+| Institution | Program | Status |
+| :--- | :--- | :--- |
+| SENA | Software Analysis and Development | In progress |
+| Harvard CS50 | Introduction to Computer Science | In progress |
+| SMART English Academy | English — B1 | In progress |
 
-## GitHub Analytics
+## GitHub activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=K-vothe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-vothe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-vothe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF783D&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
+---
+
 <div align="center">
 
-**Consistency over perfection.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer"/>
+<sub>Build. Learn. Improve.</sub>
 
 </div>

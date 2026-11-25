@@ -48,7 +48,7 @@ I enjoy understanding how software works, from its underlying logic to the inter
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **MotoRent** | Full-stack motorcycle rental marketplace. | TypeScript, Express, React, PostgreSQL, Prisma |
+| **MotoRent** | (https://github.com/haroldmerchan2025-jpg/MOTORENT-PROYECTO-) Full-stack motorcycle rental marketplace. | TypeScript, Express, React, PostgreSQL, Prisma |
 | [**MiniHelpDesk**](https://github.com/K-vothe/minihelpdesk-semgrep) | Ticket management application with static security analysis. | Node.js, Prisma, Semgrep |
 | [**IncidentHub**](https://github.com/K-vothe/Incidenthub-Api2) | Backend API for incident management. | TypeScript |
 

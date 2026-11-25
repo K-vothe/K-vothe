@@ -10,6 +10,7 @@ Bogotá, Colombia
 
 [![GitHub](https://img.shields.io/badge/GitHub-K--vothe-181717?style=for-the-badge&logo=github)](https://github.com/K-vothe)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hainermartinez722@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hainer%20Castellano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-vothe/)
 
 </div>
 
